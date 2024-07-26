@@ -6,6 +6,7 @@ Simple app to generate and download a QR code that can be used to share a link.
 
 [Live Demo](https://qrcode-generator-online.web.app/)
 
+
 <img src="public/img/screen.png">
 
 ### MIT License
